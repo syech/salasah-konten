@@ -1,0 +1,315 @@
+[
+ {
+  "id": "2026-11-27a",
+  "waktu": "2026-11-27T12:00",
+  "warna": "N",
+  "pilar": "nama tamu",
+  "ey": "Jujur saja",
+  "judul": "Tamumu bukan <em>Bapak/Ibu/Saudara/i.</em>",
+  "tema": [
+   "tuscan"
+  ],
+  "isi": "Hook nama tamu. Slide: tamu punya nama (Pak Dedi, Kak Rina, Bang Ucok) → sampul menyapa nama → satu link per tamu, dikirim dari WhatsApp sendiri → status dibuka (Plus) → CTA."
+ },
+ {
+  "id": "2026-11-30a",
+  "waktu": "2026-11-30T12:00",
+  "warna": "N",
+  "pilar": "daerah",
+  "ey": "Anak Medan pasti paham",
+  "judul": "Nikah di Medan, undangannya <em>Melayu Deli.</em>",
+  "tema": [
+   "melayu-deli"
+  ],
+  "isi": "Showcase tema Melayu Deli: detail payung, tepak sirih, warna hijau-emas; cocok untuk adat Melayu; masuk paket Lite/Plus/Combo (cek data.js)."
+ },
+ {
+  "id": "2026-11-30b",
+  "waktu": "2026-11-30T19:30",
+  "warna": "L",
+  "pilar": "drama relatable",
+  "ey": "Pernah begini?",
+  "judul": "Dikirim ke 300 orang. <em>Yang buka baru 40.</em>",
+  "tema": [],
+  "isi": "Kecemasan tamu belum buka. Solusi: status dibuka per tamu (Plus ke atas), sapa ulang pribadi H-14, jangan kirim massal."
+ },
+ {
+  "id": "2026-12-01a",
+  "waktu": "2026-12-01T19:30",
+  "warna": "N",
+  "pilar": "save: template",
+  "ey": "Simpan & salin",
+  "judul": "Kalimat sopan mengundang <em>lewat WhatsApp.</em>",
+  "tema": [],
+  "isi": "4 template pesan siap salin: untuk orang tua/sesepuh, atasan/guru, teman, grup kantor. Kalimat Islami ditulis lengkap."
+ },
+ {
+  "id": "2026-12-02a",
+  "waktu": "2026-12-02T12:00",
+  "warna": "L",
+  "pilar": "showcase kuis",
+  "ey": "Kuis 10 detik",
+  "judul": "Pilih satu, kami tebak <em>gaya nikahmu.</em>",
+  "tema": [
+   "jawa-keraton",
+   "love-in-paris",
+   "oman",
+   "seoul-pastel"
+  ],
+  "isi": "4 tema = 4 kepribadian (klasik, romantis, syahdu, manis). Ajak komentar angka pilihan; share ke pasangan."
+ },
+ {
+  "id": "2026-12-03a",
+  "waktu": "2026-12-03T19:30",
+  "warna": "N",
+  "pilar": "paket",
+  "ey": "Biar nggak salah pilih",
+  "judul": "Lite, Plus, Combo: <em>bedanya apa?</em>",
+  "tema": [],
+  "isi": "Perbandingan isi paket persis dari teks website (harga, jumlah tema, masa aktif, foto, impor Excel, status dibuka, dibantu admin). Rekomendasi: siapa cocok paket mana."
+ },
+ {
+  "id": "2026-12-04a",
+  "waktu": "2026-12-04T12:00",
+  "warna": "L",
+  "pilar": "adab",
+  "ey": "Hak sesama muslim",
+  "judul": "Diundang itu <em>hak yang perlu dipenuhi.</em>",
+  "tema": [],
+  "isi": "Hadis 6 hak muslim (HR. Muslim no. 2162), salah satunya memenuhi undangan. Adab: undang dengan sopan & personal, sebut nama."
+ },
+ {
+  "id": "2026-12-04b",
+  "waktu": "2026-12-04T19:30",
+  "warna": "N",
+  "pilar": "promo",
+  "ey": "Khusus 20 pembeli pertama",
+  "judul": "Paket Plus <em>cuma Rp100.000.</em>",
+  "tema": [
+   "antique-rose"
+  ],
+  "isi": "Promo Plus Rp100.000 (normal Rp149.000). Isi Plus dari website. Sebut 'promo 20 pertama'. Tanpa sisa kuota."
+ },
+ {
+  "id": "2026-12-05a",
+  "waktu": "2026-12-05T19:30",
+  "warna": "L",
+  "pilar": "humor Medan",
+  "ey": "Bah, kau yang mana?",
+  "judul": "Tipe tamu waktu <em>buka undangan.</em>",
+  "tema": [],
+  "isi": "Ringan: yang langsung cari tanggal, yang cari lokasi parkir, yang screenshot buat grup, yang baca sampai doa. Tanpa merendahkan. Penutup: semua info ada di satu link."
+ },
+ {
+  "id": "2026-12-06a",
+  "waktu": "2026-12-06T19:30",
+  "warna": "N",
+  "pilar": "ayat",
+  "ey": "QS. Ar-Rum: 21",
+  "judul": "Agar kamu merasa <em>tenteram kepadanya.</em>",
+  "tema": [],
+  "isi": "Kutipan ayat QS. Ar-Rum ayat 21 (Arab + terjemahan). Satu gambar/2 slide, elegan. Ajak bagikan ke calon pasangan."
+ },
+ {
+  "id": "2026-12-07a",
+  "waktu": "2026-12-07T12:00",
+  "warna": "L",
+  "pilar": "daerah",
+  "ey": "Horas, kawan",
+  "judul": "Batak, Karo, Minang: <em>undangan pakai adatmu.</em>",
+  "tema": [
+   "batak",
+   "karo",
+   "minangkabau"
+  ],
+  "isi": "Showcase 3 tema adat Sumatra. Cek paket tiap tema di data.js dan sebut dengan benar."
+ },
+ {
+  "id": "2026-12-07b",
+  "waktu": "2026-12-07T19:30",
+  "warna": "N",
+  "pilar": "save: checklist",
+  "ey": "Sebelum pesan undangan",
+  "judul": "Siapkan ini dulu, <em>biar sekali jadi.</em>",
+  "tema": [],
+  "isi": "Checklist data: nama lengkap + gelar, nama orang tua, tanggal & jam akad/resepsi, alamat + titik maps, foto (paket berfoto), rekening amplop digital, daftar tamu."
+ },
+ {
+  "id": "2026-12-08a",
+  "waktu": "2026-12-08T19:30",
+  "warna": "L",
+  "pilar": "drama keluarga",
+  "ey": "Mama minta cetak, kamu mau digital",
+  "judul": "Jalan tengahnya <em>ada kok.</em>",
+  "tema": [],
+  "isi": "Cetak sedikit untuk sesepuh/keluarga dekat, digital untuk sisanya. Cara menyampaikan ke orang tua. Hormat tetap nomor satu."
+ },
+ {
+  "id": "2026-12-09a",
+  "waktu": "2026-12-09T12:00",
+  "warna": "N",
+  "pilar": "fitur",
+  "ey": "Tamu jauh tetap bisa berbagi",
+  "judul": "Amplop digital, <em>tanpa canggung.</em>",
+  "tema": [
+   "taman-melati"
+  ],
+  "isi": "Cara kerja amplop digital di undangan (rekening/QR sesuai website). Kalimat sopan di undangan. Semua paket (cek)."
+ },
+ {
+  "id": "2026-12-10a",
+  "waktu": "2026-12-10T19:30",
+  "warna": "L",
+  "pilar": "harga aslinya",
+  "ey": "Hitung per tamu",
+  "judul": "100, 300, 500 tamu: <em>habis berapa per orang?</em>",
+  "tema": [],
+  "isi": "Matematika murni dari harga website: Lite/Plus/Combo dibagi 100/300/500 tamu. Bulatkan jujur."
+ },
+ {
+  "id": "2026-12-11a",
+  "waktu": "2026-12-11T12:00",
+  "warna": "N",
+  "pilar": "brand",
+  "ey": "Salasah artinya tiga",
+  "judul": "Tiga langkah, <em>satu undangan.</em>",
+  "tema": [
+   "green-jasmine"
+  ],
+  "isi": "Salasah = tiga (ثلاثة). Tiga langkah dari website: pilih tema & paket, isi data, kirim lalu bagikan. Bisa via formulir atau WhatsApp."
+ },
+ {
+  "id": "2026-12-11b",
+  "waktu": "2026-12-11T19:30",
+  "warna": "L",
+  "pilar": "promo",
+  "ey": "Masih ada untuk 20 pertama",
+  "judul": "Plus Rp100.000, <em>tema & fitur lengkap.</em>",
+  "tema": [
+   "persian-garden"
+  ],
+  "isi": "Promo kedua: sudut berbeda (tema Plus yang tersedia, dari data.js). Tanpa sisa kuota."
+ },
+ {
+  "id": "2026-12-12a",
+  "waktu": "2026-12-12T19:30",
+  "warna": "N",
+  "pilar": "relatable",
+  "ey": "Pertanyaan tamu paling sering",
+  "judul": "\"Parkirnya di mana?\" <em>dan kawan-kawannya.</em>",
+  "tema": [],
+  "isi": "5 pertanyaan tamu (lokasi, jam, parkir, boleh bawa anak, kado) dan cara undangan menjawabnya: peta, hitung mundur, keterangan, amplop digital."
+ },
+ {
+  "id": "2026-12-13a",
+  "waktu": "2026-12-13T19:30",
+  "warna": "L",
+  "pilar": "hadis",
+  "ey": "Pesan Rasulullah",
+  "judul": "Pilihlah karena <em>agamanya.</em>",
+  "tema": [],
+  "isi": "Hadis 'wanita dinikahi karena empat hal' (HR. Bukhari no. 5090, Muslim no. 1466). Renungan singkat untuk calon pengantin."
+ },
+ {
+  "id": "2026-12-14a",
+  "waktu": "2026-12-14T12:00",
+  "warna": "N",
+  "pilar": "daerah",
+  "ey": "Dari keraton sampai Betawi",
+  "judul": "Jawa, Sunda, Betawi: <em>pilih akarmu.</em>",
+  "tema": [
+   "jawa-keraton",
+   "sunda",
+   "betawi"
+  ],
+  "isi": "Showcase 3 tema adat Jawa-Sunda-Betawi; paket tiap tema dari data.js."
+ },
+ {
+  "id": "2026-12-14b",
+  "waktu": "2026-12-14T19:30",
+  "warna": "L",
+  "pilar": "etika",
+  "ey": "Grup WA atau japri?",
+  "judul": "Cara mengundang yang bikin tamu <em>merasa dihargai.</em>",
+  "tema": [],
+  "isi": "Japri dengan nama lebih sopan daripada lempar ke grup. Kapan grup boleh. Link per tamu memudahkan japri."
+ },
+ {
+  "id": "2026-12-15a",
+  "waktu": "2026-12-15T19:30",
+  "warna": "N",
+  "pilar": "save: ucapan",
+  "ey": "Simpan buat kondangan",
+  "judul": "Ucapan nikah yang <em>nggak klise.</em>",
+  "tema": [],
+  "isi": "8 ucapan siap salin (doa Barakallahu laka..., hangat, untuk sahabat, untuk rekan kerja). Ucapan bisa ditulis langsung di undangan Salasah."
+ },
+ {
+  "id": "2026-12-16a",
+  "waktu": "2026-12-16T12:00",
+  "warna": "L",
+  "pilar": "showcase modern",
+  "ey": "Bukan adat? Aman",
+  "judul": "Tema modern untuk <em>yang suka simpel.</em>",
+  "tema": [
+   "love-in-paris",
+   "seoul-pastel",
+   "story-book"
+  ],
+  "isi": "Showcase tema modern/romantis; paket tiap tema dari data.js."
+ },
+ {
+  "id": "2026-12-17a",
+  "waktu": "2026-12-17T19:30",
+  "warna": "N",
+  "pilar": "tutorial",
+  "ey": "Cara pesan",
+  "judul": "Pesan undangan Salasah <em>dalam 3 langkah.</em>",
+  "tema": [
+   "oman"
+  ],
+  "isi": "Alur persis dari website: lewat formulir atau WhatsApp; pembayaran setelah dikonfirmasi admin; link dibagikan."
+ },
+ {
+  "id": "2026-12-18a",
+  "waktu": "2026-12-18T12:00",
+  "warna": "L",
+  "pilar": "hadis",
+  "ey": "Walimah itu sunnah",
+  "judul": "Walimah, <em>walau sederhana.</em>",
+  "tema": [],
+  "isi": "Hadis 'adakanlah walimah walaupun dengan seekor kambing' (HR. Bukhari no. 5167, Muslim no. 1427). Pesan: sederhana tetap berkah."
+ },
+ {
+  "id": "2026-12-18b",
+  "waktu": "2026-12-18T19:30",
+  "warna": "N",
+  "pilar": "promo",
+  "ey": "Promo perkenalan",
+  "judul": "Undangan Plus <em>Rp100.000.</em>",
+  "tema": [
+   "jawa-keraton"
+  ],
+  "isi": "Promo ketiga (bila Syech belum menyatakan kuota habis). Sudut: sekali bayar, untuk semua tamu."
+ },
+ {
+  "id": "2026-12-19a",
+  "waktu": "2026-12-19T19:30",
+  "warna": "L",
+  "pilar": "perencanaan",
+  "ey": "Target nikah 2027?",
+  "judul": "Mulai dari sini, <em>12 bulan sebelumnya.</em>",
+  "tema": [],
+  "isi": "Timeline 12 bulan persiapan nikah (umum, tanpa angka biaya). Save-worthy."
+ },
+ {
+  "id": "2026-12-20a",
+  "waktu": "2026-12-20T19:30",
+  "warna": "N",
+  "pilar": "ayat",
+  "ey": "QS. An-Nur: 32",
+  "judul": "Dan nikahkanlah <em>orang-orang yang sendirian.</em>",
+  "tema": [],
+  "isi": "Kutipan ayat QS. An-Nur ayat 32 (Arab + terjemahan). Satu gambar/2 slide."
+ }
+]
