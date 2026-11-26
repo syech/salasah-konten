@@ -1,0 +1,13 @@
+@font-face{font-family:CG;font-weight:600;src:url(fonts/cormorant-garamond-latin-600-normal.woff2)}
+@font-face{font-family:CG;font-weight:500;font-style:italic;src:url(fonts/cormorant-garamond-latin-500-italic.woff2)}
+@font-face{font-family:PJ;font-weight:400;src:url(fonts/plus-jakarta-sans-latin-400-normal.woff2)}
+@font-face{font-family:PJ;font-weight:600;src:url(fonts/plus-jakarta-sans-latin-600-normal.woff2)}
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--paper:#FBFAF7;--ink:#141B2D;--muted:#566074;--navy:#1E2F5C;--tegel:#1F4E6B;--sogan:#5A3E2B;--deli:#2C4632;--anggur:#63142B;--gold:#D8B15E}
+.s{width:1080px;height:1350px;position:relative;overflow:hidden;font-family:PJ;color:var(--ink);background:var(--paper)}
+.wm{position:absolute;left:84px;bottom:76px;font-family:CG;font-weight:600;font-size:40px;display:flex;align-items:baseline;gap:4px}
+.wm i{width:9px;height:9px;border-radius:50%;background:var(--gold);display:inline-block}
+.dark{color:#FBFAF7}
+.h{font-family:CG;font-weight:600;letter-spacing:-.015em;line-height:.98}
+.p{font-size:34px;line-height:1.5}
+.cap{font-size:24px;line-height:1.4;opacity:.75}
